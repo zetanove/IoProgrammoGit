@@ -1,4 +1,5 @@
 IoProgrammoGit
 ==============
 
-per articolo su ioprogrammo
+repository per articolo su ioprogrammo
+
